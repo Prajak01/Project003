@@ -1,0 +1,9 @@
+.back {
+	background-color: white;
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 98vh;
+	margin: 0;
+}
